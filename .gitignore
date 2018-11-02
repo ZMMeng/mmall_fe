@@ -1,0 +1,15 @@
+# idea file
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+# sublime file
+.DS_Store
+
+# nodejs file
+/node_modules/
+
+# compile file
+/dist/
