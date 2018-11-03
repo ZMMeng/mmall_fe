@@ -7,9 +7,13 @@
 
 # sublime file
 .DS_Store
+*.sublime-workspace
 
 # nodejs file
 /node_modules/
 
 # compile file
 /dist/
+
+# npm debug log
+npm_debug.log
