@@ -1,0 +1,22 @@
+/*
+* @Author: 蒙卓明
+* @Date:   2018-11-04 15:13:46
+* @Last Modified by:   蒙卓明
+* @Last Modified time: 2018-11-04 15:18:21
+*/
+.footer {
+    padding-bottom: 10px;
+}
+.footer .links {
+    text-align: center;
+    color: #666;
+    line-height: 30px;
+}
+.footer .links .link {
+    padding: 0 10px;
+} 
+.footer .copyright {
+    text-align: center;
+    color: #666;
+    line-height: 30px;
+}

@@ -1,0 +1,28 @@
+/*
+* @Author: 蒙卓明
+* @Date:   2018-11-04 16:14:16
+* @Last Modified by:   蒙卓明
+* @Last Modified time: 2018-11-04 17:03:21
+*/
+/* 导航主体 */
+.nav-side {
+    float: left;
+    width: 130px;
+    min-height: 100px;
+}
+.nav-side .nav-item {
+    line-height: 25px;
+    font-size: 13px;
+}
+.nav-side .nav-item .link {
+    color: #888;
+}
+.nav-side .nav-item.active .link {
+    color: #c60023;
+}
+
+/* 右侧内容区 */
+.content.with-nav {
+    float: left;
+    width: 950px;
+}
