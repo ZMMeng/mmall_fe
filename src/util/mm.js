@@ -2,7 +2,7 @@
 * @Author: 蒙卓明
 * @Date:   2018-11-04 01:19:07
 * @Last Modified by:   蒙卓明
-* @Last Modified time: 2018-11-04 11:08:46
+* @Last Modified time: 2018-11-04 17:57:22
 */
 
 var hogan = require('hogan');
@@ -89,7 +89,7 @@ var _mm = {
 
     //统一登录处理
     doLogin: function() {
-        window.location.href = './login.html?redirect=' + encodeURIComponent(window.location.href);
+        window.location.href = './user-login.html?redirect=' + encodeURIComponent(window.location.href);
     },
 
     //返回首页
